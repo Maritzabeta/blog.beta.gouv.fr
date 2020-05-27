@@ -39,8 +39,6 @@ Qu’une Startup d'État réussisse à pérenniser son service à l'intérieur d
 
 Nous ne pouvons pas le nier la consolidation est un sujet où : politique, diplomatie et relationnel sont des sujets clés. Identifier nos alliés (les alliés des startups, du service et de la DINUM) au sein des administrations d’accueil est primordial. Et pour ceciil faut mettre les bonnes personnes autour de la tableetmettre nos relations à tous au profit de cette grande étape.
 
-
-
 ##### Maintenance opérationnelle vs Évolution continue vs excellence ….
 
 Arrivée au moment de la consolidation, la Startup d'État a fait preuve de son impact cependant parfois équipes et process ne sont pas encore stabilisés. Stabiliser les processus, stabiliser l’équipe sera un défi important lié à l’ambition que l’administration d’accueil souhaite donner à ce service.
@@ -50,9 +48,7 @@ Quelques questions à se poser: Il s’agit d’un service qui a pour vocation d
 Dans les deux cas quand la Startup d'État rejoint son administration d’accueilelle intègre son portefeuille de services.Comprendre le fonctionnement de ce portefeuille et savoir se positionner face aux autres services aura aussi de l’importance pour la Startup d'État.
 
 
-
 Après avoir fait ce constat je voudrais mettre en lumière quelquesdirections clés dans la consolidation de transport.data.gouv.fr à date :
-
 
 
 1.Sortir des sentiers battus: Indispensable et oui je ne vous apprends rien je le sais, mais
@@ -60,14 +56,11 @@ Après avoir fait ce constat je voudrais mettre en lumière quelquesdirections c
 je vous invite à réitérer l’expérience… nous avons commencé par ouvrir les chakras concernant les futurs scénarios d'atterrissage. (Pourquoi un seul scénario d'atterrissage?)
 
 
-
 Comment : En étudiant les possibilités d’atterrissage avec la Startup d'État, le sponsor et les coachs etc. et en faisant des interviews avec les possibles repreneurs avec une grille de questions établie
 
 
 
 Ceci a aidé à :
-
-·
 
 * Mieux identifier les valeurs et besoins de l’équipe
 * Redynamiser le processus.
@@ -77,9 +70,6 @@ Ceci a aidé à :
 * Nous avons identifié de partenariats prometteurs pour la startup
 
 
-
-
-
 2. Renouveler l’engagement de parties prenantes :La DINUM a fait un investissement sur la phase de consolidation. La Startup d’État souhaite de tout cœur que son produit soit pérennisé et le sponsor
 
 lui aussi souhaite voir réussir son produit. Tous les ingrédients sont présents pour réussir.
@@ -87,17 +77,13 @@ lui aussi souhaite voir réussir son produit. Tous les ingrédients sont présen
 Alors pourquoi la phase de consolidation est aussi crainte par les uns et les autres ?(un mardi nous préparions un call avec Ishan (co-animateur de beta.gouv.fr) et le sponsor pour plus tard dans la semaine, je n’avais entendu que des hypothèses de possible échec pour la consolidation transport.data.gouv.fr. Nous voulions changer la donne.)
 
 
-
 C’est donc à ce moment que nous avons compris à quel point ses premiers pas de la consolidation étaient importants, et nous avons décidé de centrer cet appel sur les points suivants :
-
 
 
 * Dynamiser la relation avec le sponsor. Remettre la motivation au centre avant le démarrage de la consolidation, échanger sur les souhaits, les attentes et même les rêves pour le service.
 
 
-
 * Célébrer et réveiller la mémoire: rappel de momentums de réussite (rappel d’un événement avec le ministre) Parler d’une future célébration, aller chercher le
-
 
 
 3. Aide à la prise de décision:Nous avons compilé les informations concernant les possibles repreneurs et nous les avons présentés au sponsor dans[“un dossier d’aide à la décision”](https://docs.google.com/presentation/d/1GikZwGh8n7-QTxRBXkm9xcvmsA8-CbX8/edit#slide=id.p1), des tableaux comparatifs sont présents avec des critères comme : organisation, culture, vision produit, organisation agile, financement, RH, technique, juridique et autres …
@@ -109,13 +95,9 @@ Ce qui a marché :
 * Une[note](https://docs.google.com/document/d/1T0bnr_P6orOMzwCcNujzUH6TD-3XuNfgciki0Wsmdvo/edit)claire récapitulative rédigée par Ishan composée du passé, du contexte, des jalons futurs et une explication du dossier et du contenu des tableaux dans le dossier clairs et succinct.
 * Le sponsor a les informations en main pour faire son choix, avec de critères qui permettent de comparer les repreneurs de manière neutre, ça lui permet de se concentrer sur les bonnes questions et de prendre du plaisir à explorer les différentes possibilités.
 
-
-
 * Le sponsor nous a clairement communiqué son souhait de vouloir faire le meilleur choix pour le service et son équipe
 
 4. Les étapes suivantes:Un comité d’investissement pour choisir : budget et repreneur entre autres puis co-construire une vision commune !
-
-
 
 Bien sûr le sujet n’est pas fini, pour les intéressés, une mise à jour dans deux mois et des cafés quand vous voulez.
 
